@@ -1,0 +1,48 @@
+.features {
+  ul {
+    margin-left: 0;
+    padding-left: 15px;
+  }
+}
+
+.jumbotron {
+  background-image: asset_url('entreprise.jpg');
+  background-size: cover;
+  color: #FFFFFF;
+  font-family: "Helvetica Neue", "Arial", sans-serif !important;
+  font-stretch: expanded;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-shadow: -1px 0 #555, 0 1px #555, 1px 0 #555, 0 -1px #555;
+  text-align: center;
+
+  h2 {
+    font-size: 35px !important;
+  }
+
+  .lead {
+    font-family: "Helvetica Neue", "Arial", sans-serif !important;
+    font-size: 30px;
+  }
+}
+
+.plan {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 120%;
+}
+
+.sign-up {
+  margin-top: 5px;
+}
+
+.extra {
+  color: #5cb85c;
+}
